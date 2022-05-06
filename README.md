@@ -19,7 +19,7 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'SwiftJSON'
 ```
-and you can easily user it as:
+and you can easily use it as:
 ```Swift
 let jsonstr = """
 {
